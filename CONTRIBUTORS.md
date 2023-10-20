@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
   
-#### Name: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Hemanth R Aradhya](https://github.com/Hemanth28092005)
 - Place: Bangalore,Karnataka,India
 - Bio: Artificial intelligence and machine learning Student
 - Github: [Hemanth28092005](https://github.com/Hemanth28092005)
